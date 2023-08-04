@@ -2,5 +2,5 @@
 
 INSTALL RIPGREP (homebrew)
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Customized <a href="https://github.com/LazyVim/LazyVim>LazyVim</a>
+
