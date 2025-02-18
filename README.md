@@ -1,4 +1,4 @@
-# ShankV
+# ShankV COMPLETELY OUTDATED UPDATE THIS!!!!!
 
 INSTALL RIPGREP (homebrew)
 INSTALL GNU-SED (homebrew)
